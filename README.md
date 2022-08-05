@@ -1,6 +1,6 @@
 ## Instructions for setting up Enemizer with AP
 
-This guide is for setting up Enemizer to use alongside the Archipelago version of the DS3 Randomizer. Before we begin, there are a couple things you need: the DS3 Archipelago Client, and the Static Item and Enemy Randomizer (https://www.nexusmods.com/darksouls3/mods/361). Also, make sure that your Dark Souls III game is set up to “Start in offline mode”. Make sure to have those handy throughout this guide.
+This guide is for setting up Enemizer to use alongside the Archipelago version of the DS3 Randomizer. Before we begin, there are a couple things you need: the DS3 Archipelago Client (https://github.com/Marechal-L/Dark-Souls-III-Archipelago-client) and the Static Item and Enemy Randomizer (https://www.nexusmods.com/darksouls3/mods/361). Also, make sure that your Dark Souls III game is set up to “Start in offline mode”. Make sure to have those handy throughout this guide.
 
 ## Installation
 
